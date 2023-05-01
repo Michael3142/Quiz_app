@@ -8,7 +8,7 @@ const quizData = [
     correct: "c"
 },{
     question: "What is my favorite video game?",
-    a: "Counter Strike Golbal-Offensive",
+    a: "Counter Strike Global-Offensive",
     b: "Overwatch",
     c: "Rocket League",
     d: "Both a and c",
