@@ -12,10 +12,10 @@ const quizData = [
     b: "Overwatch",
     c: "Rocket League",
     d: "Both a and c",
-    correct: "d"
+    correct: "a"
 },{
     question: "How long have I been coding?",
-    a:"2 months",
+    a:"5 months",
     b:"2 years",
     c:"Since I was 13 years old",
     d: "4 years",
